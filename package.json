@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server",
-    "serve": "node server"
+    "dev": "nodemon server.js",
+    "serve": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
